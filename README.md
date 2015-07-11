@@ -1,4 +1,4 @@
-# nunjucks-eval [![Version](http://img.shields.io/npm/v/nunjucks-eval.svg)](https://www.npmjs.org/package/nunjucks-eval) [![Coverage Status](https://coveralls.io/repos/alexandrevicenzi/nunjucks-eval/badge.svg?branch=master&service=github)](https://coveralls.io/github/alexandrevicenzi/nunjucks-eval?branch=master)
+# nunjucks-eval [![Version](http://img.shields.io/npm/v/nunjucks-eval.svg)](https://www.npmjs.org/package/nunjucks-eval) [![Build Status](https://travis-ci.org/alexandrevicenzi/nunjucks-eval.svg?branch=master)](https://travis-ci.org/alexandrevicenzi/nunjucks-eval) [![Coverage Status](https://coveralls.io/repos/alexandrevicenzi/nunjucks-eval/badge.svg?branch=master&service=github)](https://coveralls.io/github/alexandrevicenzi/nunjucks-eval?branch=master)
 
 [![npm package](https://nodei.co/npm/nunjucks-eval.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nunjucks-eval/)
 
