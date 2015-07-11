@@ -21,7 +21,7 @@ njeval.install(env);
 And then:
 
 ```
-{% eval year="new Date().getFullYear().toString()" %}
+{% eval year="new Date().getFullYear()" %}
 {{ year }}
 ```
 
