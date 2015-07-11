@@ -22,7 +22,16 @@ And then:
 
 ```
 {% eval year="new Date().getFullYear()" %}
-{{ year }}
+
+<span>{{ year }}</span>
+```
+
+With multiple variables:
+
+```
+{% eval month="new Date().getMonth() + 1", year="new Date().getFullYear()" %}
+
+<span>{{ month }}/{{ year }}</span>
 ```
 
 eval tag is similar to [set](http://mozilla.github.io/nunjucks/templating.html#set) tag.
