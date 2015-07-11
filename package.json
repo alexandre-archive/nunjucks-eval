@@ -1,0 +1,24 @@
+{
+  "name": "nunjucks-eval",
+  "version": "1.0.0",
+  "description": "Turning nunjucks evil",
+  "main": "index.js",
+  "scripts": {
+    "test": "export TESTING=true; mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandrevicenzi/nunjucks-eval.git"
+  },
+  "keywords": [
+    "eval",
+    "nunjucks",
+    "expression"
+  ],
+  "author": "Alexandre Vicenzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandrevicenzi/nunjucks-eval/issues"
+  },
+  "homepage": "https://github.com/alexandrevicenzi/nunjucks-eval"
+}
