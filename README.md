@@ -20,15 +20,15 @@ njeval.install(env);
 ```
 And then:
 
-```
+```html
 {% eval year="new Date().getFullYear()" %}
 
 <span>{{ year }}</span>
 ```
 
-With multiple variables:
+And with multiple variables:
 
-```
+```html
 {% eval month="new Date().getMonth() + 1", year="new Date().getFullYear()" %}
 
 <span>{{ month }}/{{ year }}</span>
