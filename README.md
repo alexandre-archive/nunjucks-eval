@@ -35,3 +35,5 @@ And with multiple variables:
 ```
 
 eval tag is similar to [set](http://mozilla.github.io/nunjucks/templating.html#set) tag.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexandrevicenzi/nunjucks-eval/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
